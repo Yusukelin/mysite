@@ -4,9 +4,9 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Yusuke
 
-A Nintendo Character
+A Reporter
 
 - - -
 
