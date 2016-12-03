@@ -12,7 +12,7 @@ A Reporter
 
 ### about
 
-Reporter interesting stories
+Report interesting stories
 
 ### Links
 
