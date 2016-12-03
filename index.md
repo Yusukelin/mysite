@@ -18,4 +18,5 @@ Report interesting stories
 
  * [現在，我一個人](https://www.facebook.com/mysolotime/)
 * [Leona](https://github.com/qqleona/myrepo/)
+*[lovelybigdata](http://fly888.hhtpe.me/)
 - - -
